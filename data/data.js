@@ -5,7 +5,7 @@ const header = 'MCQ';
 let questPerPage = 5;
 const data = [
 	{
-		'question' : 'Which animal in this video1?',
+		'question' : 'Which animal in this Picture1?',
 		'video'    : 'img/bear.jpg',
 		'corrAns'  : 'Bear',
 		'sugg1'    : 'Tiger',
@@ -14,7 +14,7 @@ const data = [
 	},
 
 	{
-		'question' : 'Which animal in this video2?',
+		'question' : 'Which animal in this Picture2?',
 		'video'    : 'img/dog.jpg',
 		'corrAns'  : 'Dog',
 		'sugg1'    : 'Lion',
@@ -23,7 +23,7 @@ const data = [
 	},
 
 	{
-		'question' : 'Which animal in this video3?',
+		'question' : 'Which animal in this Picture3?',
 		'video'    : 'img/cat.jpg',
 		'corrAns'  : 'Cat',
 		'sugg1'    : 'Tiger',
@@ -32,7 +32,7 @@ const data = [
 	},
 
 	{
-		'question' : 'Which animal in this video4?',
+		'question' : 'Which animal in this Picture4?',
 		'video'    : 'img/cow.jpg',
 		'corrAns'  : 'Cow',
 		'sugg1'    : 'Cat',
@@ -41,7 +41,7 @@ const data = [
 	},
 
 	{
-		'question' : 'Which animal in this video5?',
+		'question' : 'Which animal in this Picture5?',
 		'video'    : 'img/bear.jpg',
 		'corrAns'  : 'Bear',
 		'sugg1'    : 'Tiger',
@@ -50,7 +50,7 @@ const data = [
 	},
 
 		{
-		'question' : 'Which animal in this video6?',
+		'question' : 'Which animal in this Picture6?',
 		'video'    : 'img/bear.jpg',
 		'corrAns'  : 'Bear',
 		'sugg1'    : 'Tiger',
@@ -58,7 +58,7 @@ const data = [
 		'sugg3'    : 'Zebra'
 	},
 		{
-		'question' : 'Which animal in this video7?',
+		'question' : 'Which animal in this Picture7?',
 		'video'    : 'img/cow.jpg',
 		'corrAns'  : 'Cow',
 		'sugg1'    : 'Cat',
@@ -66,7 +66,7 @@ const data = [
 		'sugg3'    : 'Zebra'
 	},
 		{
-		'question' : 'Which animal in this video8?',
+		'question' : 'Which animal in this Picture8?',
 		'video'    : 'img/bear.jpg',
 		'corrAns'  : 'Bear',
 		'sugg1'    : 'Tiger',
@@ -75,7 +75,7 @@ const data = [
 	},
 
 		{
-		'question' : 'Which animal in this video9?',
+		'question' : 'Which animal in this Picture9?',
 		'video'    : 'img/bear.jpg',
 		'corrAns'  : 'Bear',
 		'sugg1'    : 'Tiger',
@@ -83,7 +83,7 @@ const data = [
 		'sugg3'    : 'Zebra'
 	},
 		{
-		'question' : 'Which animal in this video10?',
+		'question' : 'Which animal in this Picture10?',
 		'video'    : 'img/cow.jpg',
 		'corrAns'  : 'Cow',
 		'sugg1'    : 'Cat',
@@ -92,7 +92,7 @@ const data = [
 	},
 
 	{
-		'question' : 'Which animal in this video11?',
+		'question' : 'Which animal in this Picture11?',
 		'video'    : 'img/dog.jpg',
 		'corrAns'  : 'Dog',
 		'sugg1'    : 'Cat',
@@ -100,7 +100,7 @@ const data = [
 		'sugg3'    : 'Zebra'
 	},
 		{
-		'question' : 'Which animal in this video12?',
+		'question' : 'Which animal in this Picture12?',
 		'video'    : 'img/dog.jpg',
 		'corrAns'  : 'Dog',
 		'sugg1'    : 'Cat',
